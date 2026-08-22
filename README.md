@@ -58,4 +58,5 @@ The system automatically exports diagnostic validation visualization metrics as 
 *   **Confusion Matrix:** Evaluates model classification safety margins, allowing researchers to monitor and minimize high-risk False Negatives.
 *   **ROC-AUC Curve:** Measures global classification accuracy thresholds across varying True Positive / False Positive operational trade-offs.
 
+![Model Evaluation Metrics](model_evaluation_metrics.png)
 
